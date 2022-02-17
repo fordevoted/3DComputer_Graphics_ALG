@@ -1,5 +1,5 @@
 # 3DComputer_Graphics_ALG
-there are include 4 projects with computer graphics drawing or rendering algorithms.
+Implement 4 computer graphics drawing or rendering algorithms.
 # Introduction
  ## Proj1
 Proj 1 is a simple program can use mouse to click on monitor, then draw 2D shapes, such as line, dot, circle , polygon. This proj only use OpenGL method, drawDot, to complete and implement midpoint draw line alg.
@@ -41,9 +41,6 @@ Proj 4 is implement 3D line and line and polygon drawing, pattern transformation
 
 # Usages
   *  install Visual Studio, and create new proj, and put data to `debug` folder, then run the code.
-
-# License
-105802015 中央資工 陳昱瑋
 
 # Contact 
 210509fssh@gmail.com
